@@ -1,0 +1,30 @@
+[
+    {
+        "link": "http:\/\/localhost\/wordpress\/post-type-elementor_library-sitemap-1.xml",
+        "updated": "2025-12-26T17:05:03+08:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress\/post-type-page-sitemap-1.xml",
+        "updated": "2025-12-26T17:05:03+08:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress\/post-type-post-sitemap-1.xml",
+        "updated": "2025-12-26T17:05:03+08:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress\/post-type-product-sitemap-1.xml",
+        "updated": "2025-12-26T17:05:03+08:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress\/taxonomy-type-category-sitemap-1.xml",
+        "updated": "2025-12-26T17:05:03+08:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress\/taxonomy-type-product_brand-sitemap-1.xml",
+        "updated": "2025-12-26T17:05:03+08:00"
+    },
+    {
+        "link": "http:\/\/localhost\/wordpress\/taxonomy-type-product_cat-sitemap-1.xml",
+        "updated": "2025-12-26T17:05:03+08:00"
+    }
+]

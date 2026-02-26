@@ -1,0 +1,6 @@
+2026-02-20T05:09:47+00:00 WARNING 無法從 PTK 取得 WooCommerce 版面配置：「無法連結版面配置工具組 API：請稍後再試一次。」
+2026-02-20T10:16:21+00:00 INFO Payment gateway enabled: "Stripe"
+2026-02-20T10:59:29+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 2207 did not have a valid thumbnail property.
+2026-02-20T10:59:50+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 2207 did not have a valid thumbnail property.
+2026-02-20T11:01:58+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 2207 did not have a valid thumbnail property.
+2026-02-20T11:02:32+00:00 WARNING After passing through woocommerce_cart_item_images filter, image with id 2207 did not have a valid thumbnail property.
